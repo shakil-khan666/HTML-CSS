@@ -1,0 +1,31 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    height: 50px;
+    width: 400px;
+    background-color: aqua;
+    border-style: dotted;
+    border-color: brown;
+    border-width: 2px;
+
+
+}
+div{
+height: 100px;
+width: 100px;
+background-color: pink;
+border-width: 2px;
+border-style: solid;
+border-color: brown;
+
+}
+#one{
+
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    border: 3px black dashed;
+    text-align: center;
+}
