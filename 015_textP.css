@@ -1,0 +1,31 @@
+
+*{
+background-color: aliceblue;
+}
+p
+{
+    text-align: left;
+}
+
+h1{
+text-align: center;
+text-decoration:red dotted underline;
+}
+a{
+ text-decoration: none;
+}
+#h1{
+    font-weight: 100;
+}
+#h2{
+    font-weight: 200;
+}
+
+#one{
+    font-family: Arial f;
+
+}
+#two{
+    font-family: 'Segoe UI';
+
+}
