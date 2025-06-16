@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding:0px;
+    color: white;
+
+}
+#navbar{
+ height:60px;
+background-color: #0f1111;
+}
+a{
+margin-right: 200px;
+}
+#logo{
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+button
+{
+color: darkgoldenrod;
+}
+#box1
+{
+width:100px;
+height: 100px;
+background-color: blue;
+margin-top: 2px;
+border: 4px black dashed;
+}
+#box2
+{
+width:100px;
+height: 100px;
+background-color:red;
+margin-top: 2px;
+border: 4px black dashed;
+}
+#box3
+{
+width:100px;
+height: 100px;
+background-color: rgba(255,0,0,0.5);
+margin-top: 2px;
+border-radius: 50%;
+border: 4px black dashed;
+}
+#contain
+{
+
+height: 600px;
+}
+
+footer
+{background-color: #0f1111;
+}
