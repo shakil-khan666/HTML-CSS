@@ -1,0 +1,38 @@
+   #ractangle{
+    height: 600px;
+width: 200px;
+background-color: white;
+border-width: 2px;
+border-style: solid;
+border-color: brown;
+
+}
+
+#one{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 50%;
+
+}
+#two
+{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 50%;
+}
+
+#three
+{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 50%;
+}
