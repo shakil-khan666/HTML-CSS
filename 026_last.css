@@ -1,0 +1,59 @@
+*{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+#nabvar{
+    height: 60px;
+    background-color: black;
+
+}
+a{
+    font-size: medium;
+margin-right: 200px;
+}
+button
+{
+color: yellow;
+background-color: aqua;
+}
+
+#ractangle{
+
+    height: 600px;
+width: 200px;
+background-color: white;
+border-width: 2px;
+border-style: solid;
+border-color: brown;
+    
+}
+
+#one{
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    margin: 25px;
+    background-color: red;
+    border-radius: 50%;
+}
+#two{
+    height:100px;
+    width:100px;
+    padding:25px;
+    margin: 25px;
+    background-color:green;
+    border-radius: 50%;
+}
+
+#three{
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 25px;
+    background-color:blue;
+    border-radius: 50%;
+
+}
