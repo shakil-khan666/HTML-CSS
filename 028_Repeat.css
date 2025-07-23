@@ -1,0 +1,46 @@
+*{
+   
+color: antiquewhite;
+}
+div{
+display:  inline-block;
+
+}
+#one{
+    width: 100px;
+    height: 100px;
+background-color:rgba(255, 0,0, 0.5);
+ margin: 25px;
+ padding: 25px;
+
+}
+#two{
+    width: 100px;
+    height: 100px;
+background-color: red;
+ margin: 25px;
+    padding: 25px;
+
+}
+#three{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+background-color: green;
+
+}
+
+
+#foure{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 50%;
+background-color: skyblue;
+
+}
+
+
+

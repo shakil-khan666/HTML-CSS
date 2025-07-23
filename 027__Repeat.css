@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+ #Nav{
+ height: 60px;
+background:#0f1111;
+
+}
+a{
+margin-right: 200px;
+}
+
+button
+{color: #f08804;
+}
+
+#logo
+{
+font-size: 25px;
+color: #f08804;
+}
